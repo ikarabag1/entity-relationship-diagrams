@@ -7,7 +7,7 @@ flowchart TD;
   B{2 triangle};
   C --> D;
   E[square] -- neat --> F{triangle};
-  F(round) -->
+  F(round) --> A;
 ```
 
 ```mermaid
