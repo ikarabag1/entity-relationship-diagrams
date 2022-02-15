@@ -1,5 +1,5 @@
-# -
-markdown chart
+# 📈
+markdown charts
 
 ```mermaid
 flowchart TD;
