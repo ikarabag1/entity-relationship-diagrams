@@ -4,10 +4,10 @@ markdown charts
 ```mermaid
 flowchart TD;
   A[1 sqaure];
-  B{2 triangle};
+  B{2 diamond};
   C --> D;
   E[square] -- neat --> F{triangle};
-  F(round) --> A;
+  F(round) --> G{hello \n newline?};
 ```
 
 ```mermaid
