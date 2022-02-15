@@ -11,10 +11,10 @@ flowchart TD;
 ```
 
 ```mermaid
-pie;
-"Dogs" : 386;
-"Cats" : 85;
-"Rats" : 15;
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
 ```
 
 [gh blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
