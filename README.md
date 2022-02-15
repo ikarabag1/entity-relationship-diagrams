@@ -20,4 +20,4 @@ pie title pets
 
 [gh blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 
-[mermaaid info](https://github.com/mermaid-js/mermaid#readme)
+[mermaid info](https://github.com/mermaid-js/mermaid#readme)
