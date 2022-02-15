@@ -13,7 +13,7 @@ flowchart TD;
 ```mermaid
 pie title pets
     "Dogs" : 386
-    "Cats" : 85
+    "Cats" : 260
     "turtle" : 15
     "rabbit" : 150
 ```
