@@ -21,3 +21,9 @@ pie title pets
 [gh blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 
 [mermaid info](https://github.com/mermaid-js/mermaid#readme)
+
+![ERD](./erd.drawio.png)
+
+This ERD is created with [draw.io](https://app.diagrams.net)
+
+
