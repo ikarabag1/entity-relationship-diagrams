@@ -60,9 +60,6 @@ Erd tools:
 
 ### [Mermaid Diagrams](https://github.com/mermaid-js/mermaid#readme) 
 
-#### Example: 
-
-
 flowchart:
 
 ```mermaid
@@ -121,7 +118,7 @@ ERD:
 
 ### [db diagram.net](https://dbdiagram.io/home/)
 
-![db diagram.net ERD]()
+![db diagram.net ERD](./db-diagram.net.png)
 
 #### Pros:
 
