@@ -4,6 +4,8 @@ Erd tools:
 
 ### [Draw.io](https://app.diagrams.net) 
 
+![an imbedded draw.io png ERD](./erd.drawio.png)
+
 #### Pros:
 
 * can embed pngs into github repo that update when ERD is updated
@@ -19,6 +21,10 @@ Erd tools:
 
 ### [Miro Boads](https://miro.com/) 
 
+![team miro board](./team-miro.png)
+
+![ERD created on miro](./team-miro.png)
+
 #### Pros:
 
 * UI is intuitive and responsive
@@ -28,12 +34,14 @@ Erd tools:
 
 #### Cons:
 
-* there is no proper what to make ERDs, so they can come out kind of janky looking
+* there is no proper what to make standard SQL ERDs, so tour ERDs look more like a flowchart
 * cannot export SDL commands
 * cannot export to github repos
 * only two boards per unpaid account
 
 ### [db.desienger.net](https://app.dbdesigner.net)
+
+![ERD made with db.designer.net](./db.desienger-erd.png)
 
 #### Pros:
 
@@ -49,18 +57,6 @@ Erd tools:
 
 * only allows two ERDs on an unapid account
 * cannot save to/imbed in a gh repo
-
-### [db diagram.net](https://dbdiagram.io/home/)
-
-#### Pros:
-
-* sharable ERDs
-* can embed in a github repo
-
-#### Cons:
-
-* requires learning ERD scritping langauge
-
 
 ### [Mermaid Diagrams](https://github.com/mermaid-js/mermaid#readme) 
 
@@ -123,6 +119,21 @@ ERD:
 * requires learning the syntax, which can be obtuse
 * does support any kind of import/export
 
-##### extra resuources
+### [db diagram.net](https://dbdiagram.io/home/)
 
-here is a [github blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) about using mermaid in your `README.mds`
+![db diagram.net ERD]()
+
+#### Pros:
+
+* sharable ERDs
+* can embed in a github repo
+
+#### Cons:
+
+* requires learning ERD scritping langauge
+
+## extra resuources
+
+
+* [this](https://miro.com/templates/entity-relationship-diagram/) a an ERD template to use with a mire board
+* here is a [github blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) about using mermaid in your `README.mds`
