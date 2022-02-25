@@ -1,6 +1,16 @@
 # ERDs and Charts 📈📉
 
-Erd tools:
+## Learning objects
+
+* describe what an ERD is 
+* describe the usefulness of an ERD
+* understand the basic symbols and information in an ERD
+* get acquainted with several availible ERD creation tools
+* (optional) get experiance using one of the ERD tools 
+ 
+## Background
+
+## ERD Toolds
 
 ### [Draw.io](https://app.diagrams.net) 
 
@@ -131,6 +141,6 @@ ERD:
 
 ## extra resuources
 
-
+* [this blog](https://desk.draw.io/support/solutions/articles/16000042371-embed-a-diagram-in-github-markdown) demonstrates how to connect your `draw.io` to your github markdowns 
 * [this](https://miro.com/templates/entity-relationship-diagram/) a an ERD template to use with a mire board
 * here is a [github blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) about using mermaid in your `README.mds`
