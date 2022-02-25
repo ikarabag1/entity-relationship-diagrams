@@ -8,9 +8,14 @@
 * get acquainted with several availible ERD creation tools
 * (optional) get experiance using one of the ERD tools 
  
-## Background
+## Discussion
 
-## ERD Toolds
+## What is an ERD
+
+ERD is an acronym for *ENTITY RELATIONSHIP DIAGRAM*. Entity Relationship Diagram, also known as ERD, ER Diagram or ER model, is a type of structural diagram for use in database design. An ERD contains different symbols and connectors that visualize two important information: The major entities within the system scope, and the inter-relationships among these entities.
+
+
+## ERD Tools
 
 ### [Draw.io](https://app.diagrams.net) 
 
